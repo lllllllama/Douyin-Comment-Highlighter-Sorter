@@ -22,50 +22,6 @@
 
 ## 🚀 如何安装
 
-要使用此脚本，你首先需要安装一个用户脚本管理器。这是一个浏览器扩展，可以让你在指定的网页上运行自定义的JavaScript代码。
-
-**第 1 步：安装用户脚本管理器**
-
-根据你的浏览器，选择并安装以下任意一个扩展：
-
-  * [**Tampermonkey**](https://www.tampermonkey.net/) (推荐，支持 Chrome, Firefox, Edge, Safari)
-  * [**Violentmonkey**](https://violentmonkey.github.io/) (支持 Chrome, Firefox, Edge)
-  * [**Greasemonkey**](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (仅限 Firefox)
-
-**第 2 步：安装本脚本**
-
-你说得对，这是一个很关键的问题。直接从链接安装是理想情况，但有时因为浏览器安全策略、网络问题或用户不熟悉，确实会遇到障碍。你提到的“在油猴中添加脚本然后复制上去”的方法，就是**手动安装**，这是一种非常可靠的备用方案。
-
-我已经为你更新了 README 中的 `如何安装` 部分，使其包含**两种安装方法**。这样无论是谁，都能根据自己的情况轻松完成安装。
-
-这是优化后的 `README.md` 内容，你可以直接替换掉原有的文件。
-
------
-
-# 抖音评论实时排序高亮 (Douyin Comment Highlighter & Sorter)
-
-[](https://github.com/Gemini-Final-Project)
-[](https://www.google.com/search?q=https://github.com/Gemini-Final-Project/blob/main/LICENSE)
-[](https://www.tampermonkey.net/)
-[](https://www.google.com/search?q=https://greasyfork.org/zh-CN/scripts/XXXXX) **一份强大的浏览器脚本，旨在优化抖音网页版的评论浏览体验。它可以帮助你从成千上万条评论中，快速筛选、高亮并置顶你最关心的内容。**
-
------
-
-## 演示
-
-## ✨ 主要功能
-
-  * **💬 关键词筛选与高亮**: 输入一个或多个关键词（用空格隔开），脚本会自动高亮所有包含这些词的评论，并加上 ⭐ 徽章，让目标评论一目了然。
-  * **🔼 智能置顶排序**: 所有匹配到的评论都会被自动移动到评论区的最顶端，让你无需费力滚动，即刻聚焦重要信息。
-  * **📜 自动加载评论**: 脚本会自动向下滚动页面，触发评论的动态加载，直到达到你设定的数量上限或所有评论加载完毕。
-  * **🔄 一键恢复顺序**: 在排序前，脚本会智能备份原始的评论顺序。只需点击“重置”，即可将评论区恢复原状。
-  * **🎨 现代化UI面板**:
-      * 一个悬浮、可拖动的现代化控制面板。
-      * 提供清晰的输入框、状态显示和实时日志，操作直观。
-      * 自动保存面板位置，下次访问时无需重新调整。
-
-## 🚀 如何安装
-
 **第 1 步：安装用户脚本管理器（如果已有请跳过）**
 
 要使用此脚本，你首先需要安装一个用户脚本管理器。这是一个浏览器扩展，可以让你在指定的网页上运行自定义的JavaScript代码。
