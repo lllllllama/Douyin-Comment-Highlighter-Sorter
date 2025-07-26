@@ -1,9 +1,3 @@
-好的，没有问题。这是一份为你的项目 "抖音评论实时排序高亮" 精心编写的 GitHub README 文件。
-
-这份 README 结构清晰、信息全面，同时考虑了普通用户（如何安装使用）和开发者（技术亮点、如何贡献）的需求。你只需要将它复制到你 GitHub 仓库的 `README.md` 文件中即可。
-
------
-
 # 抖音评论实时排序高亮 (Douyin Comment Highlighter & Sorter)
 
 [](https://github.com/Gemini-Final-Project)
